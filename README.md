@@ -16,3 +16,5 @@ This project answers this question. I obtained valence, arousal, and dominance s
 ### findings
 
 The results are what would be expected based on existing literature: valence ratings are consistent, arousal are ok-ish, and dominance are the least reliable. This could probably tell us that the emotions people feel about a word may not be the same as how the words are used. However, there is not enough evidence to say embedding scores are the "true values". There may be other things going on in a person when they judge a word. Next steps could be to control for other psycholinguistic variables like frequency, concreteness, imaginability, etc. and see how well human ratings can predict embedding scores.
+
+Very speculative interpretation: human decisions may not be based on co-occurring words. People may be using other strategies to infer affective meanings of words, and there may be a unique process to derive affective meanings in words that are different from general words. Word embeddings may lack some important emotional components that are present in humans.
